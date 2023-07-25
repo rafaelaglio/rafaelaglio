@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rafaelaglio
+- 👀 I’m interested in ... learning about software programming.
+- 🌱 I’m currently learning ...use of technology for greater sustainability.
+- 💞️ I’m looking to collaborate on ... creation of sustainable projects
+- 📫 How to reach me ... send me an e-mail: rafaelvargasaglio@gmail.com
